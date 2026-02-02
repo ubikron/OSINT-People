@@ -16,13 +16,13 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Aidan Raney](images/Aidan_Raney.jpeg) | Aidan Raney |  | https://www.linkedin.com/in/aidanosint/ |
 | ![Mario Santella](images/Mario_Santella.jpeg) | Mario Santella | The OSINT Rack | https://www.linkedin.com/in/mariosantella/ |
 | ![Nico Dekens](images/Nico_Dekens.avif) | Nico Dekens |  | https://www.linkedin.com/in/dutch-osintguy/ |
-| ![Nihad A. Hassan](images/NihadHassan.avif) | Nihad A. Hassan |  | https://www.linkedin.com/in/darknessgate/ |
+| ![Nihad A. Hassan](images/Nihad_Hassan.jpeg) | Nihad A. Hassan |  | https://www.linkedin.com/in/darknessgate/ |
 | ![David Bombal](images/David_Bombal.jpeg) | David Bombal |  | https://www.linkedin.com/in/davidbombal/ |
 | ![Michael Bazzell](images/Michael_Bazzell.jpeg) | Michael Bazzell | IntelTechniques | https://www.linkedin.com/in/michael-bazzell-a83572122/ |
 | ![Benjamin Strick](images/Benjamin_Strick.jpeg) | Benjamin Strick |  | https://www.linkedin.com/in/bendobrown/ |
 | ![Romain P.](images/Romain_P.jpeg) | Romain P. |  | https://www.linkedin.com/in/parlonscyber/ |
 | ![Aaron Roberts](images/Aaron_Roberts.jpeg) | Aaron Roberts |  | https://www.linkedin.com/in/aaroncti/ |
-| ![Miri Mohhamed](images/Miri_Mohhamed.avif) | Miri Mohhamed |  | https://www.linkedin.com/in/miri-mohammed/ |
+| Miri Mohhamed | Miri Mohhamed |  | https://www.linkedin.com/in/miri-mohammed/ |
 | ![Ritu Gull](images/Ritu_Gull.jpeg) | Ritu Gull | OSINT Techniques | https://www.linkedin.com/in/ritugill-osinttechniques/ |
 | ![Maxim Marshak](images/Maxim_Marshak.jpeg) | Maxim Marshak |  | https://www.linkedin.com/in/osintech/ |
 | ![Paul Wright](images/Paul_Wright.avif) | Paul Wright |  | https://www.linkedin.com/in/paulwright-cybercrime-osint/ |
@@ -31,7 +31,7 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Kirby Plessas](images/Kirby_Plessas.jpeg) | Kirby Plessas |  | https://www.linkedin.com/in/kirbyp/ |
 | ![Rae Baker](images/Rae_Baker.jpeg) | Rae Baker |  | https://www.linkedin.com/in/raebakerosint/ |
 | ![Vinny Troia](images/Vinny_Troia.jpeg) | Vinny Troia |  | https://www.linkedin.com/in/vinnytroia/ |
-| ![Skip (思纪) Schiphorst](images/SkipSchiphorst.jpeg) | Skip (思纪) Schiphorst |  | https://www.linkedin.com/in/skip-schiphorst-721bb6200/ |
+| ![Skip (思纪) Schiphorst](images/Skip_Schiphorst.jpeg) | Skip (思纪) Schiphorst |  | https://www.linkedin.com/in/skip-schiphorst-721bb6200/ |
 | ![Alexandra B.](images/Alexandra_B.jpeg) | Alexandra B. |  | https://www.linkedin.com/in/aleksandrabielska/ |
 | ![Eitan Livne](images/Eitan_Livne.jpeg) | Eitan Livne |  | https://www.linkedin.com/in/eitan-livne-10673596/ |
 | ![Steven Harris](images/Steven_Harris.jpeg) | Steven Harris |  | https://www.linkedin.com/in/steven-harris-nixintel/ |
