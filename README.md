@@ -84,7 +84,31 @@ A list of YouTube channels and podcasts on the topic of OSINT. It includes both 
 |![Maltego](images/Maltego_YouTube.jpeg)|Maltego|https://www.youtube.com/@MaltegoOfficial|https://maltego.com|
 |![SANS Institute](images/SANS_Institute_YouTube.jpeg)|SANS Institute|https://www.youtube.com/@SANSInstitute|https://sans.org|
 
+# Twitter OSINT accounts
 
+A list of Twitter accounts that have been active in recent months, posting about OSINT tools and techniques.
+
+| Avatar |Name|Link|Website|
+|:---:| :---: | :---:| :---: |
+|![Dutch Osint Guy Nico](images/Dutch_Osint_Guy_Nico_Twitter.jpeg)|Dutch Osint Guy Nico|https://x.com/dutch_osintguy|https://dutchosintguy.com|
+|![OSINT.Link](images/OSINT_Link_Twitter.jpeg)|OSINT.Link|https://x.com/onlineosint|https://OSINT.link|
+|![Skip Schiphorst](images/Skip_Schiphorst_Twitter.jpeg)|Skip Schiphorst|https://x.com/SchiphorstSkip|https://i-intelligence.eu/|
+|![#OSINT to Educate](images/OSINT_to_Educate_Twitter.jpeg)|#OSINT to Educate|https://x.com/techniquesOsint||
+|![InfoSecSherpa](images/InfoSecSherpa_Twitter.jpeg)|InfoSecSherpa|https://x.com/InfoSecSherpa||
+|![Rae Baker wondersmith_rae](images/Rae_Baker_Twitter.jpeg)|Rae Baker wondersmith_rae|https://x.com/wondersmith_rae||
+|![Epieos](images/Epieos_Twitter.jpeg)|Epieos|https://x.com/epieos|https://epieos.com|
+|![D4rk_Intel](images/D4rk_Intel_Twitter.jpeg)|D4rk_Intel|https://x.com/d4rk_intel||
+|![The OSINT Newsletter](images/The_OSINT_Newsletter_Twitter.jpeg)|The OSINT Newsletter|https://x.com/osintnewsletter|https://osintnewsletter.com|
+|![The Coalition of Cyber Investigators](images/The_Coalition_of_Cyber_Investigators_Twitter.jpeg)|The Coalition of Cyber Investigators|https://x.com/CoalitionCI|https://www.coalitioncyber.com/|
+|![Aaron Roberts](images/Aaron_Roberts_Twitter.jpeg)|Aaron Roberts|https://x.com/AaronCTI|https://aaroncti.com/|
+|![CyberSudo](images/CyberSudo_Twitter.jpeg)|CyberSudo|https://x.com/Cyber_Sudo|https://cybersudo.org/osint-mastery|
+|![OSINT Industries](images/OSINT_Industries_Twitter.jpeg)|OSINT Industries|https://x.com/OSINTindustries|https://osint.industries|
+|![OSINT Techniques](images/OSINT_Techniques_Twitter.jpeg)|OSINT Techniques|https://x.com/OSINTtechniques|https://osinttechniques.com|
+|![IntelTechniques](images/IntelTechniques_Twitter.jpeg)|IntelTechniques|https://x.com/IntelTechniques|https://inteltechniques.com|
+|![Bellingcat](images/Bellingcat_Twitter.png)|Bellingcat|https://x.com/bellingcat|https://bellingcat.com|
+|![OSINT Combine](images/OSINT_Combine_Twitter.jpeg)|OSINT Combine|https://x.com/OSINTcombine|https://osintcombine.com|
+|![OSINT Team](images/OSINT_Team_Twitter.jpeg)|OSINT Team|https://x.com/OSINTTeamBlog|https://osintteam.com|
+|![Benjamin Strick](images/Benjamin_Strick_Twitter.jpeg)|Benjamin Strick|https://x.com/BenDoBrown|https://benjaminstrick.com|
 -----
 
 Don't miss our updates!   
