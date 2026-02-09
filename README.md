@@ -16,7 +16,7 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Aidan Raney](images/Aidan_Raney.jpeg) | Aidan Raney |  | https://www.linkedin.com/in/aidanosint/ |
 | ![Mario Santella](images/Mario_Santella.jpeg) | Mario Santella | The OSINT Rack | https://www.linkedin.com/in/mariosantella/ |
 | ![Nico Dekens](images/Nico_Dekens.avif) | Nico Dekens |  | https://www.linkedin.com/in/dutch-osintguy/ |
-| ![Nihad A. Hassan](images/Nihad_Hassan.jpeg) | Nihad A. Hassan |  | https://www.linkedin.com/in/darknessgate/ |
+| ![Nihad A. Hassan](images/Nihad_Hassan.avif) | Nihad A. Hassan |  | https://www.linkedin.com/in/darknessgate/ |
 | ![David Bombal](images/David_Bombal.jpeg) | David Bombal |  | https://www.linkedin.com/in/davidbombal/ |
 | ![Michael Bazzell](images/Michael_Bazzell.jpeg) | Michael Bazzell | IntelTechniques | https://www.linkedin.com/in/michael-bazzell-a83572122/ |
 | ![Benjamin Strick](images/Benjamin_Strick.jpeg) | Benjamin Strick |  | https://www.linkedin.com/in/bendobrown/ |
@@ -56,7 +56,7 @@ If you know of any other interesting OSINT bloggers or researhers, feel free to 
  | ![OSINT Industries](images/OSINT_Industries.jpeg) | OSINT Industries | https://www.osint.industries/ | [Nathaniel Fried](https://www.linkedin.com/in/nathanielfried/) | [Twitter](https://twitter.com/OSINTindustries), [YouTube](https://www.youtube.com/OSINTIndustriesOfficial), [Bluesky](https://bsky.app/profile/osint.industries), [Telegram](https://t.me/OSINTIndustries) |  | ![OSINT Team](images/OSINT_Team.jpeg) | OSINT Team | https://www.osintteam.com/ | [Petro C.](https://www.linkedin.com/in/peteruxer/) | [Twitter](https://x.com/OsintTeamBlog), [Discord](https://discord.com/invite/3zsA8gSyhT) | 
  | ![The OSINT Newsletter](images/The_OSINT_Newsletter.jpeg) | The OSINT Newsletter | https://osintnewsletter.com/ | [Jake Creps](https://www.linkedin.com/in/jakecreps/) | [Twitter](https://x.com/osintnewsletter) |  | ![OSINT](images/OSINT.jpeg) | OSINT |  | [Graham Plaster](https://www.linkedin.com/in/grahamplaster/) |  |  | ![SANS OSINT Community](images/SANS_OSINT_Community.jpeg) | SANS OSINT Community |  | [Debra L. Gawet ](https://www.linkedin.com/in/debralgawet/) |  |  | ![Open Source Intelligence Professionals](images/Open_Source_Intelligence_Professionals.jpeg) | Open Source Intelligence Professionals |  | [Arno Reuser](https://www.linkedin.com/in/reuser/) |  |  | ![OSINTCZECH](images/OSINTCZECH.jpeg) | OSINTCZECH |  | [David Havlík](https://www.linkedin.com/in/dhavlik/) |  | 
 | ![Osint Belgium](images/Osint_Belgium.jpeg) | Osint Belgium |  | [Marco van Oeveren](https://www.linkedin.com/in/marco-van-oeveren-0503b914a/), [Peter Acke](https://www.linkedin.com/in/peteracke/), [Arno Reuser](https://www.linkedin.com/in/reuser/) |  | 
-
+ | ![eCrime Intelligence](images/eCrime_Intelligence.jpeg) | eCrime Intelligence |  | [https://www.linkedin.com/in/paulwright-cybercrime-osint/](https://www.linkedin.com/in/paulwright-cybercrime-osint/) |  | 
 
 # YouTube OSINT Channels and podcasts
 
