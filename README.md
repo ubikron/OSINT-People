@@ -58,6 +58,33 @@ If you know of any other interesting OSINT bloggers or researhers, feel free to 
 | ![Osint Belgium](images/Osint_Belgium.jpeg) | Osint Belgium |  | [Marco van Oeveren](https://www.linkedin.com/in/marco-van-oeveren-0503b914a/), [Peter Acke](https://www.linkedin.com/in/peteracke/), [Arno Reuser](https://www.linkedin.com/in/reuser/) |  | 
 
 
+# YouTube OSINT Channels and podcasts
+
+A list of YouTube channels and podcasts on the topic of OSINT. It includes both currently active channels and older projects with a large number of interesting videos.
+
+| Avatar | Name | Link | Website |
+|:---:| :---: | :---:| :---: |
+|![Bendobrown](images/Bendobrown_YouTube.jpeg)|Bendobrown|https://www.youtube.com/@Bendobrown|https://benjaminstrick.com/|
+|![The OSINT Curious Project](images/The_OSINT_Curious_Project_YouTube.jpeg)|The OSINT Curious Project|https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA|https://www.osintcurio.us/|
+|![OSINT Dojo](images/OSINT_Dojo_YouTube.jpeg)|OSINT Dojo|https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ|https://osintdojo.com|
+|![Forensic OSINT](images/Forensic_OSINT_YouTube.jpeg)|Forensic OSINT|https://www.youtube.com/@ForensicOSINT|https://www.forensicosint.com/|
+|![Layer 8 Conference](images/Layer_8_Conference_YouTube.jpeg)|Layer 8 Conference|https://www.youtube.com/@Layer8Conference|https://layer8.com/|
+|![OSINT_FR](images/OSINT_FR_YouTube.jpeg)|OSINT-FR|https://www.youtube.com/@OSINTFR|https://osintfr.com/en/home|
+|![The Intel Lab](images/The_Intel_Lab_YouTube.jpeg)|The Intel Lab|https://www.youtube.com/@theintellab||
+|![Sofia Santos](images/Sofia_Santos_YouTube.jpeg)|Sofia Santos|https://www.youtube.com/@gralhix|https://gralhix.com|
+|![OSINT Excellence](images/OSINT_Excellence_YouTube.jpeg)|OSINT Excellence|https://www.youtube.com/@Osintexcellence|https://osintexcellence.org|
+|![OSINord](images/OSINord_YouTube.jpeg)|OSINord|https://www.youtube.com/@OSINord|https://www.osinord.com/|
+|![OSINT Industries](images/OSINT_Industries_YouTube.jpeg)|OSINT Industries|https://www.youtube.com/@OSINTIndustriesOfficial|https://osint.industries|
+|![The OSINT podcast](images/The_OSINT_podcast_YouTube.jpeg)|The OSINT podcast|https://www.youtube.com/@OSINTPodcast|https://osintpodcast.com|
+|![My OSINT Training](images/My_OSINT_Training_YouTube.jpeg)|My OSINT Training|https://www.youtube.com/@myosinttraining|https://myosint.training|
+|![UK OSINT Community](images/UK_OSINT_Community_YouTube.jpeg)|UK OSINT Community|https://www.youtube.com/@UKOSINT|https://osint.uk/join|
+|![OSINT AMBITION](images/OSINT_AMBITION_YouTube.jpeg)|OSINT AMBITION|https://www.youtube.com/@OSINTAMBITION|https://osintupdates.com|
+|![IOC - Crypto and OSInt Investigations](images/IOC_Crypto_and_OSInt_Investigations_YouTube.jpeg)|IOC - Crypto and OSInt Investigations|https://www.youtube.com/@intelligenceonchain|https://intelligenceonchain.com|
+|![Nattic](images/Nattic_YouTube.jpeg)|Nattic|https://www.youtube.com/@Nattic||
+|![Maltego](images/Maltego_YouTube.jpeg)|Maltego|https://www.youtube.com/@MaltegoOfficial|https://maltego.com|
+|![SANS Institute](images/SANS_Institute_YouTube.jpeg)|SANS Institute|https://www.youtube.com/@SANSInstitute|https://sans.org|
+
+
 -----
 
 Don't miss our updates!   
