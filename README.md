@@ -11,7 +11,7 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Nathaniel Fried](images/Nathaniel_Fried.jpeg) | Nathaniel Fried | UK OSINT Community | https://www.linkedin.com/in/nathanielfried/ |
 | ![Sofia Santos](images/Sofia_Santos.jpeg) | Sofia Santos |  | https://www.linkedin.com/in/sofia-santos-/ |
 | ![Jake Creps](images/Jake_Creps.jpeg) | Jake Creps |  | https://www.linkedin.com/in/jakecreps/ |
-| ![Ben H.](images/1688048604132,jpg) | Ben H. |  | https://www.linkedin.com/in/benheubl/ | 
+| ![Ben H.](images/1688048604132.jpg) | Ben H. |  | https://www.linkedin.com/in/benheubl/ | 
 | ![Boudjenane Soufiane](images/Boudjenane_Soufiane.jpeg) | Boudjenane Soufiane | The OSINT Exchange | https://www.linkedin.com/in/boudjenane-soufiane-65117b188/ |
 | ![Aidan Raney](images/Aidan_Raney.jpeg) | Aidan Raney |  | https://www.linkedin.com/in/aidanosint/ |
 | ![Mario Santella](images/Mario_Santella.jpeg) | Mario Santella | The OSINT Rack | https://www.linkedin.com/in/mariosantella/ |
