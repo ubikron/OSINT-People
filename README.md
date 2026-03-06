@@ -35,6 +35,8 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Alexandra B.](images/Alexandra_B.jpeg) | Alexandra B. |  | https://www.linkedin.com/in/aleksandrabielska/ |
 | ![Eitan Livne](images/Eitan_Livne.jpeg) | Eitan Livne |  | https://www.linkedin.com/in/eitan-livne-10673596/ |
 | ![Steven Harris](images/Steven_Harris.jpeg) | Steven Harris |  | https://www.linkedin.com/in/steven-harris-nixintel/ |
+| ![Petro C.](images/petro_c.jpeg) | Petro C. |  | https://www.linkedin.com/in/peteruxer/ |
+
 
 If you know of any other interesting OSINT bloggers or researhers, feel free to ask us to add them to this repository.
 
