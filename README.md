@@ -22,7 +22,7 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Benjamin Strick](images/Benjamin_Strick.jpeg) | Benjamin Strick |  | https://www.linkedin.com/in/bendobrown/ |
 | ![Romain P.](images/Romain_P.jpeg) | Romain P. |  | https://www.linkedin.com/in/parlonscyber/ |
 | ![Aaron Roberts](images/Aaron_Roberts.jpeg) | Aaron Roberts |  | https://www.linkedin.com/in/aaroncti/ |
-| Miri Mohhamed | Miri Mohhamed |  | https://www.linkedin.com/in/miri-mohammed/ |
+| ![Miri Mohhamed](images/Mohammed_Miri.jpeg) | Miri Mohhamed  |  | https://www.linkedin.com/in/miri-mohammed/ |
 | ![Ritu Gull](images/Ritu_Gull.jpeg) | Ritu Gull | OSINT Techniques | https://www.linkedin.com/in/ritugill-osinttechniques/ |
 | ![Maxim Marshak](images/Maxim_Marshak.jpeg) | Maxim Marshak |  | https://www.linkedin.com/in/osintech/ |
 | ![Paul Wright](images/Paul_Wright.avif) | Paul Wright |  | https://www.linkedin.com/in/paulwright-cybercrime-osint/ |
