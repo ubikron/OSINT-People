@@ -111,6 +111,16 @@ A list of Twitter accounts that have been active in recent months, posting about
 |![Benjamin Strick](images/Benjamin_Strick_Twitter.jpeg)|Benjamin Strick|https://x.com/BenDoBrown|https://benjaminstrick.com|
 -----
 
+
+# Our other repositories
+
+[OSINT People](https://github.com/ubikron/OSINT-People)  
+[OSINT Companies](https://github.com/ubikron/OSINT-Companies)  
+[OSINT CTFs](https://github.com/ubikron/OSINT-CTFs)  
+[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters)  
+[OSINT Books](https://github.com/ubikron/OSINT-Books)  
+[OSINT Conferences](https://github.com/ubikron/OSINT-Conferences)
+
 Don't miss our updates!   
 [Linkedin](https://www.linkedin.com/company/ubikron/)    
 [YouTube](https://www.youtube.com/@ubikron)  
