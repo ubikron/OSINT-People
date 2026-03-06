@@ -112,6 +112,28 @@ A list of Twitter accounts that have been active in recent months, posting about
 -----
 
 
+# Telegram OSINT channels
+
+
+List of Telegram channels about OSINT tools and techniques. When reading, keep in mind that Telegram is a social network with very soft censorship, and you can easily encounter dangerous content, phishing, and fraud. Check all links and files using Virus Total and similar services.
+
+
+| Avatar | Name | Link |
+|:----------: | :----------: | :----------:|
+|![Manuel Travezano OSINT](images/telegram/Manuel_Travezano_OSINT.jpg)|Manuel Travezano OSINT|https://t.me/OsintManuelBot59|
+|![Yemen OSINT](images/telegram/Yemen_OSINT.jpg)|Yemen OSINT|https://t.me/yemenosint|
+|![OsintGit ](images/telegram/OsintGit.jpg)|OsintGit |https://t.me/OsintGit|
+|![Osint Losena](images/telegram/Osint_Losena.jpg)|Osint Losena|https://t.me/OsintLosena|
+|![Cyber Detective](images/telegram/Cyber_Detective.jpg)|Cyber Detective|https://t.me/cybdetective|
+|![Offensive OSINT](images/telegram/Offensive_OSINT.jpg)|Offensive OSINT|https://t.me/offensiveosint|
+|![Soxoj Insides](images/telegram/Soxoj_Insides.jpg)|Soxoj Insides|https://t.me/soxoj_insides|
+|![OSINT ANATOMY](images/telegram/OSINT_ANATOMY.jpg)|OSINT ANATOMY|https://t.me/osint_anatomy|
+|![OSINT Industries](images/telegram/OSINT_Industries.jpg)|OSINT Industries|https://t.me/s/OSINTIndustries|
+|![Cyber Hunter - OSINT en Español](images/telegram/Cyber_Hunter.jpg)|Cyber Hunter - OSINT en Español|https://t.me/cyberhunteracademy|
+|![OSINT Excellence](images/telegram/OSINT_Excellence.jpg)|OSINT Excellence|https://www.t.me/osintexcellence|
+|![Osint.website](images/telegram/Osint_website.jpg)|Osint.website|https://t.me/Osintwebsite|
+
+
 # Our other repositories
 
 [Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments)  
