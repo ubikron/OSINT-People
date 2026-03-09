@@ -36,7 +36,7 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Eitan Livne](images/Eitan_Livne.jpeg) | Eitan Livne |  | https://www.linkedin.com/in/eitan-livne-10673596/ |
 | ![Steven Harris](images/Steven_Harris.jpeg) | Steven Harris |  | https://www.linkedin.com/in/steven-harris-nixintel/ |
 | ![Petro C.](images/petro_c.jpeg) | Petro C. |  | https://www.linkedin.com/in/peteruxer/ |
-
+| ![Tom Jarivs](images/tom_jarvis.jpeg) | Tom Jarvis |  | https://www.linkedin.com/in/tompjarvis/ |
 
 If you know of any other interesting OSINT bloggers or researhers, feel free to ask us to add them to this repository.
 
