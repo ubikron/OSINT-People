@@ -37,6 +37,10 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Steven Harris](images/Steven_Harris.jpeg) | Steven Harris |  | https://www.linkedin.com/in/steven-harris-nixintel/ |
 | ![Petro C.](images/petro_c.jpeg) | Petro C. |  | https://www.linkedin.com/in/peteruxer/ |
 | ![Tom Jarivs](images/tom_jarvis.jpeg) | Tom Jarvis |  | https://www.linkedin.com/in/tompjarvis/ |
+| ![Tom Jarivs](images/sigmund_brandstaetter.jpeg) | Sigmund Brandstaetter |  | https://www.linkedin.com/in/sigmundbrandstaetter/ |
+
+
+
 
 If you know of any other interesting OSINT bloggers or researhers, feel free to ask us to add them to this repository.
 
