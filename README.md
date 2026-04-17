@@ -38,7 +38,7 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Petro C.](images/petro_c.jpeg) | Petro C. |  | https://www.linkedin.com/in/peteruxer/ |
 | ![Tom Jarivs](images/tom_jarvis.jpeg) | Tom Jarvis |  | https://www.linkedin.com/in/tompjarvis/ |
 | ![Tom Jarivs](images/sigmund_brandstaetter.jpeg) | Sigmund Brandstaetter |  | https://www.linkedin.com/in/sigmundbrandstaetter/ |
-
+| ![Saad Sarraj](images/saad_sarraj.jpeg) | Saad Sarraj (Cyber Sudo) |  | https://www.linkedin.com/in/saadsarraj/ |
 
 
 
