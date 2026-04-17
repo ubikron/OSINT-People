@@ -89,7 +89,7 @@ A list of YouTube channels and podcasts on the topic of OSINT. It includes both 
 |![Nattic](images/Nattic_YouTube.jpeg)|Nattic|https://www.youtube.com/@Nattic||
 |![Maltego](images/Maltego_YouTube.jpeg)|Maltego|https://www.youtube.com/@MaltegoOfficial|https://maltego.com|
 |![SANS Institute](images/SANS_Institute_YouTube.jpeg)|SANS Institute|https://www.youtube.com/@SANSInstitute|https://sans.org|
-| ![Saad Sarraj](images/saad_sarraj.jpeg) | Cyber Sudo | https://www.youtube.com/@CyberSudoYT |
+| ![Saad Sarraj](images/saad_sarraj.jpeg) | Cyber Sudo | https://www.youtube.com/@CyberSudoYT | https://cybersudo.org/ |
 
 # Twitter OSINT accounts
 
