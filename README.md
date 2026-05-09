@@ -39,6 +39,10 @@ In this repository, you will find a list of researchers/bloggers who actively pu
 | ![Tom Jarivs](images/tom_jarvis.jpeg) | Tom Jarvis |  | https://www.linkedin.com/in/tompjarvis/ |
 | ![Tom Jarivs](images/sigmund_brandstaetter.jpeg) | Sigmund Brandstaetter |  | https://www.linkedin.com/in/sigmundbrandstaetter/ |
 | ![Saad Sarraj](images/saad_sarraj.jpeg) | Saad Sarraj (Cyber Sudo) | OSINT Mastery Course | https://www.linkedin.com/in/saadsarraj/ |
+| ![Oluwaseyi Fj](Oluwaseyi_F.jpeg) | Oluwaseyi F. | TruTrace Intelligence | https://www.linkedin.com/in/oluwaseyi-f-aa5bb297/ |
+
+
+
 
 
 
